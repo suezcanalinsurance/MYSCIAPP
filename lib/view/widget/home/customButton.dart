@@ -44,7 +44,7 @@ class MyCustomBtn extends StatelessWidget {
                 Expanded(
                     child: Center(
                       child: Text("اللغة العربية",
-                          style: Theme.of(context).textTheme.bodyText1),
+                          style: Theme.of(context).textTheme.titleMedium),
                     )),
               ],
             ),
