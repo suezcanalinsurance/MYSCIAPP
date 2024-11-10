@@ -120,7 +120,7 @@ import 'package:suezproduction/view/screen/pol_pricing.dart';
 
                    children: [
                      /*     Text(title,style: Theme.of(context).textTheme.bodyText2,),*/
-                     Text(description,style: Theme.of(context).textTheme.bodyText1,),
+                     Text(description,style: Theme.of(context).textTheme.titleMedium ,),
                      /*    Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [

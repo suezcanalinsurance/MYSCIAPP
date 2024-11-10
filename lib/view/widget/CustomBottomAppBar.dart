@@ -99,7 +99,7 @@ class CustomBottomAppBar extends StatelessWidget {
         mainAxisSize: MainAxisSize.min,
         children: [
           Icon(icon, color: Color(0xff1696EE)),
-          Text(label, style: Theme.of(context).textTheme.bodyText1),
+          Text(label, style: Theme.of(context).textTheme.titleMedium ),
         ],
       ),
     );

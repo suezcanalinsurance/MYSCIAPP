@@ -73,7 +73,7 @@ class HomePage extends StatelessWidget {
                       children: [
                         Icon(Icons.home),
                         Text("home".tr,
-                            style:  Theme.of(context).textTheme.bodyText1)
+                            style:  Theme.of(context).textTheme.titleMedium )
                       ],
                     ),
                   )
@@ -91,7 +91,7 @@ class HomePage extends StatelessWidget {
                       children: [
                         Icon(Icons.view_compact),
                         Text("about".tr,
-                            style:  Theme.of(context).textTheme.bodyText1)
+                            style:  Theme.of(context).textTheme.titleMedium )
                       ],
                     ),
                   )
@@ -114,7 +114,7 @@ class HomePage extends StatelessWidget {
                       children: [
                         Icon(Icons.perm_contact_calendar_rounded),
                         Text("profile".tr,
-                            style:  Theme.of(context).textTheme.bodyText1)
+                            style:  Theme.of(context).textTheme.titleMedium )
                       ],
                     ),
                   )
@@ -132,7 +132,7 @@ class HomePage extends StatelessWidget {
                             children: [
                               Icon(Icons.output_sharp),
                               Text("exit".tr,
-                                  style:   Theme.of(context).textTheme.bodyText1)
+                                  style:   Theme.of(context).textTheme.titleMedium )
                             ],
                           ),
                         )
@@ -146,7 +146,7 @@ class HomePage extends StatelessWidget {
                               Icon(Icons.account_circle_sharp),
                               Text("login".tr,
 
-                                  style:  Theme.of(context).textTheme.bodyText1)
+                                  style:  Theme.of(context).textTheme.titleMedium )
                             ],
                           ),
                         )
