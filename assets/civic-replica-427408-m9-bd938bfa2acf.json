@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "civic-replica-427408-m9",
+  "private_key_id": "bd938bfa2acfe720c6769b387a6ea1890fa9db9d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvtrSV6kzit13z\n+ZDZeJoYOT4FTJn5NUSfT24AhVa4YQGl7lAy08dieYvdSWQ4M4tOBkmxeYIkxx9a\nGr9WUkXRlBEpNzdYDSPLBtMbPa+YoMsOGAdpVpwE9QIqzmSe5X+D1XPvOjFRf1eD\nP8o720KT0HR8e3G6nJlsGXm5fvsL8Wm4TB6VrLqk7gTj7+Nvdwho0Y+ZZNhhYP4K\nPqeuSxTZLoYaGl1He7W42vy5crdfekxvr9xyTG1Y/uagzgS992GiEvNb0Hg4MvJ6\nwRLrDYr/tVOKlOSKKNYYJZNfUUSUedB+2VFMYG0vqokV5HDgNGlxyml9hEm7VY7G\nbhWuRlCrAgMBAAECggEAIALtoFg4nJ8iXzXKtUva6unWyjlb3cJeF5XtaOvh0iJe\nHgAuHSxm6SJSoERkHTcKvHK5zzrfQlsCc7Rmwk+nx5gtjjAwhXqTWEQMhqx0xp4Y\nkB9BjmfIccC/HdRPEYGm+voSrnUQEhRceZ1P9xqpZOt3pUwJ+qDX9JEpk2k2TETn\n5MDJKl733ya1cVkHa0yEWXG1b79vwJ9rAEgsblvHI1lqWWP7OtJJMQS6Vnfb8ZKS\nJ1YMr1zh0qleoJLsxGJ3HE/8AanwAQF49bjioN7UFJhCy5uVC0Jv8/aTy4C5f3Vt\nHwKt7SxHzRP/Q6B5s+gAlvuLWl9yTUnuzkwNXb2P0QKBgQDlcCWeFLbIDcjw7cVH\nKsYNEGOpcQNr0l/0Tg9gnTYS8gNYo2GY/mkaFp2gVE4a4REePxBQa6MfzTLnynir\ndrVgVLJbRNdiraLg/Fy4gQjs9c+2DiBI79Cf/1KhDLtqNsFeDyDcwfLZKZCLL36s\n5jPHmMLxsPnG0jjkYNd3Bom62wKBgQDEDlRo6jFCmLgUFAuyZkqbRGbY7ebapfxR\neU4bFvPZLBoKqGI8vKcDubLG/KpX6jJW0A6wLZu3PZ4E0hN+qmMnVVn7uZNG0JzI\nqekkp6x+fT6Zd/zSbpq9UcsScK2RNDjj5SYY7LYNApmlkcCYWIXLWRXTl29XYSLW\nthqe1MlicQKBgQCqszhZl4Gx74ebsNtAqpM1LwdnDj0EYD2hrt4D/JM5nzNcJBo9\n0LJzhXX6zh5aIy8wOK0zmBGCXJHOIDaNI0GojPsxqlMxCIyRJVD6uI3idrP1+CaO\n/VVTZIueZLGfQWO2Tj0d4XKDnUf8NfbiPlcx3fbUCN6czNUlHOPRm1ynVwKBgGjH\nQ8NiTftKhS5t3CZ21q6OauzKkBMQnH2qd9ywcpgBItXJUd8l75hlGS+RfzRG/Ko6\nvW7YoRzYOGhZIYQTabRuwA1xC03QVcpETE6DsgNTyi3Y22xXIinF2eK8B3bP0wuw\nvqCZeV4Qoq7C64w/2xlnPev8RcwMJMNdRXLXQ91xAoGANbvZgwKaR/T7ayjKdd2+\nRfuazwIA++vZkwPnhnuK+5u/JYlr9CC82xGAwMgW7bRQv8aGhwTjuCCC5cvRHYXX\nCYTcxLrtOPWMawUPXPQs1gsBTxwBrD9gjbEP95HH0NueJNl2tstZ+U2NcmDX+joV\ntgwSgLPpMXH5W5rJAuCVHK4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "scidialogflow@civic-replica-427408-m9.iam.gserviceaccount.com",
+  "client_id": "101212521879152485223",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/scidialogflow%40civic-replica-427408-m9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "civic-replica-427408-m9",
+  "private_key_id": "c011a570c5f9559b57a2b80073ad6d34bac5cb54",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCJ1aUqaVpASYiE\nbIUmPRsQj5VHYx12kx6TJtViPErf8PpBsConNnq2GcCOi4IearO1K3s9TD+ZcHZd\nTAq7FfS3znkzI8WF/rSuF/NByhJcIsRbFxTMLSB4EHZBKaRCIC4KIeHHZgfVbkok\nJYWSIWfw1xeGp5IXctvZpHgseWF43g9VkYc3jf5dIL1Z/p5DCD5q0zIRQQUxWZjb\nTwn+gsvg7cszYYhwzv5JErMrsjNrvBo4r+bGCs6wce0IP970WSqIFZ8dNMSEjipC\nAXSmIheD7vV4SVoKtO9WtAQICkYBCYVpiqidehd/+u6WYv861fctv+Xu5jPFrig3\nGY+PhdilAgMBAAECggEACOCew62HZ46U4VqP9NeIr7dfuPpUQnfVR0sAAVS6ydOe\neq6a+G2U17eu5D9uAQGEU43aYSdRDVPl+7pTEpumaFQ/ECEkrq2p+3CFdV5Lcm22\n0dsZttDNP45n32iMMMobzQFDpnEW3hM9aTiVcsT+CdAAruaKDUKTkF/8cXjb40np\n5NehmOokRGs5qiuVKmIw0cinfraOMfPBwCTtzcPxhsIAE7SMEILfHIDWhcg81dkA\n4iapioU/yGx03K8SOWWeYOLONJvK9tloiYknfg8TwbahfqzW4n03P41IZfvajLnK\nHiMy7FM2uITDZT9Wxag8YKqw7a27tLzdlE+XZo+kPQKBgQDAK77HxRbkujPyjuOI\nbLMoSLoOR2fwvrOoh/2hfxa15WM84dsv3Tkz/z7kXPQ21HVijSMXIrdUKzOnxmqI\n3jhueq2/0Gz/r9A6P8CIDp6WPqryHxNbud5xmRqSLe1uPD2fHIP6CAi+ZSzw8OLI\n+nl8a1Grf/4DncZWL5+6RP5JFwKBgQC3nbEfHkzREOmiImzw9vCjoRGaNsVQVqGX\nDlGX4h0aXhBrKOmkgXR0wBiknmtYWQ9cccdqtO1TuZGlUR74S2MotHujagNpsnPc\nizfTOkLswOff2aVAKSrPNN0xXaU13G3XoNLxz9buvgryyiYlkrjoHaSIpe+vbgq8\nL0/hp4CJowKBgHF/pL8yTZIr05CYChTCNpI9Wf4i+GW9DDkmkIs4l345DAKiVqWP\nYECwqUGREP/tPaNGPopki6ifl3OpAbTyopvFwyb9/9KH0VEF5D23fLy6KJa1+eX8\nAkBPr9zUWV35IGAAJIahBiEFeqSXcSpInUX50JOdFbanEcRHfmwyYYljAoGAJLsA\n0Y7IIxJVCkAEtvdPEAyKbuUB95482PDeVZm/5KRoeGdIxcW3vBspUtT1+EhokD+a\nergSuarnfcCKh3TdMylXiksMv7oY/0dCNZj0BlRYjikFq54QmD6k+NkY0Xt05aug\nRwsincOagRL7Koz9PEGhxkwbdGZ480grnKJbTi0CgYAMgVB3Xw4KWi74WhNODWnJ\n8R1yxtOQOOrsAe8N9tTV4EhFRD91mmRJdcbcQrmkVT4lkapQKUZE7MZBKSEBYe8p\nnlcqOSrDK4wOB3F8Kfaz90B7pYtGmZb1R/rUPLHtRmFDrPv/efkkAz7DGfPn7sO6\n9JdGsEQ7i3ZXfhIc3WgE9Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sciapp@civic-replica-427408-m9.iam.gserviceaccount.com",
+  "client_id": "112317838211344691600",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sciapp%40civic-replica-427408-m9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
